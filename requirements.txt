@@ -1,0 +1,8 @@
+streamlit
+soccerdata
+mplsoccer
+pandas
+matplotlib
+seaborn
+
+# any other packages you used
