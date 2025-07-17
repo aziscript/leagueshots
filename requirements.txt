@@ -1,8 +1,5 @@
 streamlit
-soccerdata
-mplsoccer
 pandas
 matplotlib
-seaborn
+mplsoccer
 
-# any other packages you used
